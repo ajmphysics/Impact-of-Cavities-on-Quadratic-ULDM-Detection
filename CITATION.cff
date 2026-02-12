@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Code For Quadratic Scalars Around Cavities
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Angus
+    family-names: Macdonald
+    email: angus.macdonald@nottingham.ac.uk
+    orcid: 'https://orcid.org/0009-0008-6515-3303'
+    affiliation: University of Nottingham
+  - given-names: Elisa
+    family-names: Todarello
+    email: elisa.todarello@nottingham.ac.uk
+    affiliation: University of Nottingham
+    orcid: 'https://orcid.org/0000-0001-7419-0976'
+  - given-names: Clare
+    family-names: Burrage
+    email: clare.burrage@nottingham.ac.uk
+    affiliation: University of Nottingham
+    orcid: 'https://orcid.org/0000-0002-7337-0470'
+  - given-names: 'Micheal '
+    family-names: Ross
+    email: mpross2@uw.edu
+    affiliation: University of Washington
+    orcid: 'https://orcid.org/0000-0002-8955-5269'
+  - given-names: Gray
+    family-names: Rybka
+    affiliation: University of Washington
+    orcid: 'https://orcid.org/0000-0001-9973-1564'
+    email: grybka@uw.edu
+repository-code: 'https://github.com/ajmphysics/quadratic-cavities'
+license: CC-BY-4.0
+date-released: '2026-02-04'
